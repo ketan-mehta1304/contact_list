@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* text-align: center; */
+}
+.contact{
+    display: flex;
+    align-content: space-between;
+}
+p{
+    display: inline;
+}
+li {
+    list-style-type: none;
+}
